@@ -1,6 +1,6 @@
 # Vishnu Duknam
 
-**Master's Student in Computer Science | Data Management Enthusiast**
+**Master's Student in Computer Science | Software Developer / Python Developer**
 
 [LinkedIn](https://www.linkedin.com/in/vishnu-duknam1276/) | [Email](mailto:vd45@uakron.edu)
 
@@ -8,7 +8,7 @@
 
 ## Objective
 
-I am a motivated Computer Science Master's student with a solid foundation in software development and data management. I have experience in web development and am passionate about solving complex problems using programming skills. I am eager to contribute to innovative projects and grow in a dynamic team environment.
+I am a motivated Computer Science Master's student with a solid foundation in software development . I have experience in web development and am passionate about solving complex problems using programming skills. I am eager to contribute to innovative projects and grow in a dynamic team environment.
 
 ## Education
 
