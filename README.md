@@ -35,25 +35,13 @@ Methodologies: Agile, Scrum, Jira, Confluence
 
 ### Experience
 Software Developer
-Byte Bridge Technologies, 
+HERE Technologies, 
 December 2024 - Present
-Designed and implemented microservices using Java Spring Boot and AWS Lambda to support enterprise transaction processing systems handling thousands of secure API requests daily.
-Performed end-to-end development lifecycle activities including requirement analysis, solution design, system configuration, integration testing, deployment, and production support.
-Developed RESTful APIs with Spring Security and JPA to integrate SQL and NoSQL data systems, ensuring secure data exchange and maintaining transactional integrity.
-Built automated ETL workflows using Spring Batch to synchronize data between cloud systems, reducing manual reconciliation efforts by 50 percent.
-Resolved complex system integration challenges by debugging distributed service interactions and optimizing asynchronous processing pipelines.
-Collaborated with stakeholders in Agile sprints to demonstrate developed features and gather feedback for continuous system improvement.
-Improved backend performance by 35 percent through query optimization, indexing strategies, and architectural enhancements.
-Maintained 99.9 percent uptime through proactive monitoring, CloudWatch logging, and performance tuning.
+
 Software Developer
 Capgemini Technology Services, India
 April 2021 - April 2023
-Developed enterprise-scale applications for global clients including Mercedes-Benz and IKEA using Java, React, and AWS infrastructure.
-Engineered microservice-based APIs integrating with enterprise business systems to support high-volume operational workflows.
-Performed fit-gap analysis and translated business requirements into scalable backend solutions aligned with enterprise standards.
-Refactored legacy systems and improved API response times by 40 percent through asynchronous processing and database optimization.
-Built automation testing frameworks and integrated CI/CD pipelines to ensure reliable release management.
-Enhanced application observability and operational monitoring using AWS CloudWatch and centralized logging systems.
+
 ## Projects
 
 ### AI-Powered Application
