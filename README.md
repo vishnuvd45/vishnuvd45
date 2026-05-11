@@ -1,14 +1,5 @@
 # Vishnu Duknam
 
-**Master's Student in Computer Science | Software Developer / Python Developer**
-
-[LinkedIn](https://www.linkedin.com/in/vishnu-duknam1276/) | [Email](mailto:vishnud89670@gmail.com)
-
----
-
-## Objective
-
-Software Engineer with experience designing and implementing enterprise-grade microservices and cloud-native systems supporting large-scale operational workflows. Strong background in system integration, API-driven architecture, ETL automation, data transformation, and secure backend development using Java, C#, Python, and AWS. Experienced working in Agile environments collaborating with cross-functional stakeholders to deliver scalable, high-availability solutions. Proven ability to resolve complex integration challenges across distributed systems while maintaining performance, reliability, and security compliance.
 
 ## Education
 
@@ -33,14 +24,7 @@ DevOps: Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins
 Testing: Unit Testing, Integration Testing, Selenium, Jest
 Methodologies: Agile, Scrum, Jira, Confluence
 
-### Experience
-Software Developer
-HERE Technologies, 
-December 2024 - Present
 
-Software Developer
-Capgemini Technology Services, India
-April 2021 - April 2023
 
 ## Projects
 
