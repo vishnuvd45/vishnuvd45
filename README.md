@@ -1,4 +1,4 @@
-# Vishnu Duknam
+# Vishnu D
 
 
 ## Education
